@@ -2,7 +2,7 @@
 
 The home for the team maintaining Yosys and related Open Source EDA projects.
 
-![banner](banner.png)
+![banner](profile/banner.png)
 
 # Support us!
 
