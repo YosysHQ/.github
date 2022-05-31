@@ -1,6 +1,4 @@
-# YosysHQ
-
-The home for the team maintaining Yosys and related Open Source EDA projects.
+# The home for the team maintaining Yosys and related Open Source EDA projects.
 
 ![banner](profile/banner.png)
 
