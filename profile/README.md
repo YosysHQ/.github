@@ -22,6 +22,7 @@ Other notable projects:
 
 ### Community
 - Join us on [Slack](https://join.slack.com/t/yosyshq/shared_invite/zt-1aopkns2q-EiQ97BeQDt_pwvE41sGSuA)!
+- We have weekly dev meetings open to all. Find the link on #devel-discuss in slack if you have a PR or issue you want to discuss with us.
 - IRC: [#yosys on libera.chat](https://web.libera.chat/#yosys)
 
 ### Support us
