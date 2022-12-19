@@ -24,6 +24,7 @@ Other notable projects:
 - Join us on [Slack](https://join.slack.com/t/yosyshq/shared_invite/zt-1aopkns2q-EiQ97BeQDt_pwvE41sGSuA)!
 - We have weekly dev meetings open to all. Find the link on #devel-discuss in slack if you have a PR or issue you want to discuss with us.
 - IRC: [#yosys on libera.chat](https://web.libera.chat/#yosys)
+- Mastodon: https://fosstodon.org/@yosyshq
 
 ### Support us
 Like what we do? Please consider either buying a license for the [Tabby CAD Suite](https://www.yosyshq.com/products-and-services) or [becoming a sponsor](https://www.yosyshq.com/support-us).
