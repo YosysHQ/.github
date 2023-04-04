@@ -14,6 +14,7 @@ We also have an [OSS CAD Suite github action](https://github.com/YosysHQ/setup-o
 Front-ends for applications built on top of Yosys:
 - [sby](https://github.com/YosysHQ/sby): formal property checking
 - [mcy](https://github.com/YosysHQ/mcy): mutation coverage
+- [eqy](https://github.com/YosysHQ/eqy): equivalence checking
 
 Other notable projects:
 - [riscv-formal](https://github.com/YosysHQ/riscv-formal): formally check compliance with the RISC-V specification 
